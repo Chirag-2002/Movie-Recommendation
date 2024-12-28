@@ -3,3 +3,12 @@ Important Commands and Points
 1) Commands for creating environment in a anaconda via terminal 
 
 conda create -p venv python==3.12.7 -y
+
+2) Initializing the git for the project 
+
+a) git init --- To Initializing the project file 
+b)git add README.md 
+c) git commit -m "message"
+d) git branch -M main --- Rename the branch name 
+e) git remote add origin https://github.com/Chirag-2002/Movie Recommendation --- Making connection to github so that whatever commit we do reflect in the github
+f) git push -u origin main --- Push the file to github
