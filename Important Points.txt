@@ -1,0 +1,5 @@
+Important Commands and Points 
+
+1) Commands for creating environment in a anaconda via terminal 
+
+conda create -p venv python==3.12.7 -y
