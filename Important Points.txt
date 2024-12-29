@@ -4,11 +4,10 @@ Important Commands and Points
 
 conda create -p venv python==3.12.7 -y
 
-2) Initializing the git for the project 
-
-a) git init --- To Initializing the project file 
-b)git add README.md 
-c) git commit -m "message"
-d) git branch -M main --- Rename the branch name 
-e) git remote add origin https://github.com/Chirag-2002/Movie Recommendation --- Making connection to github so that whatever commit we do reflect in the github
-f) git push -u origin main --- Push the file to github
+2) Git Commands : 
+a) git init --- Initializing the git 
+b)git add README.md --- To add the readme file 
+c) git commit -m "Message Here " ---- To commit the changes 
+d) git branch -M main --- Change the branch name 
+e) git remote add origin "github project url" --- Connect git to github for project synchronization
+f)git push -u origin main ---- Push all the changes to github 
